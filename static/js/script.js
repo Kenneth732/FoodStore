@@ -9,7 +9,7 @@ function initMap() {
   // Load the Google Maps API asynchronously
   function loadScript() {
     const script = document.createElement('script');
-    script.src = `https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap`;
+    script.src = `https://maps.googleapis.com/maps/api/js?key=8fc1466c5amsh955a2ac503f2736p1a82dbjsn125112e0993f&callback=initMap`;
     document.head.appendChild(script);
   }
   
