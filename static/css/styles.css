@@ -33,13 +33,18 @@ nav ul li a{
     margin: 0 10px;
 }
 .btnx{
-    border-radius: 10px;
-    background: rgb(249, 163, 3);
-    border: 0;
-    outline: none;
-    padding: 10px 25px;
-    color: #fff;
-
+    background: linear-gradient(180deg, #ea585f 0%, #f96b7b 100%);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    cursor: pointer;
+    box-shadow: -2px 2px 3px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease-in-out;
+    text-transform: uppercase;
+}
+.btnx:hover {
+    transform: scale(1.1);
 }
 .content{
     width: 100%;
