@@ -4,33 +4,36 @@
             "id" : 0,
             "name" : "Tasty",
             "img": "./assets/smoothie.png",
-            "price": ""
+            "price": "200"
         },
         {
             "id" : 1,
             "name" : "",
             "img": "./assets/dessert.png",
-            "price": ""
+            "price": "300"
         },
         {
             "id" : 2,
             "name" : "",
-            "price": ""
+            "img": "./assets/grapefruit.png",
+            "price": "122"
         },
         {
             "id" : 3,
             "name" : "",
-            "price": ""
+            "img": "./assets/mysteryfruit.png",
+            "price": "90"
         },
         {
             "id" : 4,
-            "name" : "",
+            "img": "./assets/p1-removebg-preview.png",
             "price": ""
         },
         {
             "id" : 5,
             "name" : "",
-            "price": ""
+            "img": "./assets/p4-removebg-preview.png",
+            "price": "30"
         }
     ]
 }
