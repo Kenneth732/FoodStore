@@ -2,12 +2,14 @@
     "foodData": [
         {
             "id" : 0,
-            "name" : "",
+            "name" : "Tasty",
+            "img": "./assets/smoothie.png",
             "price": ""
         },
         {
             "id" : 1,
             "name" : "",
+            "img": "./assets/dessert.png",
             "price": ""
         },
         {
